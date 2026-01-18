@@ -2,8 +2,6 @@
 **with OpenAI SDK**
 
 
-🌐 **See the Live Application**: [https://ai-feedback-mixer.vercel.app/](https://ai-feedback-mixer.vercel.app/)
-
 > **Transform messy Typeform feedback into clear, actionable product insights with AI. Get themed clusters, sentiment analysis, and executive reports—instantly.** ⚡
 
 ---
@@ -167,7 +165,6 @@
 
 
 <div align="center">
-
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
